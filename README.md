@@ -1,4 +1,13 @@
-# Welcome to my profile 👋
+## 👋 Hey there! I'm Max 🚀
+
+I'm a _**super passionate**_ software engineer who believes in **craftsmanship** over quick fixes. I love learning and exploring new tech!
+
+Currently, I'm into TypeScript, Node.js, Next.js, React, nx and other shiny tools that help in building awesome stuff on the web. Also, I'm always on the lookout for the next cool thing to learn and master!
+
+When not elbow-deep in code, you'll find me 🚴‍♂️ spinning, gaming 🎮, or turning my home into a smart hub 🏡. 
+
+If you want to see what I was up to the last year/week, have a look at those graphs 👇
+
 
 |                                Languages last Year                                 |                               Languages last 7 days                                |
 |:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
