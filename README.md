@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Max 🚀
 
-I'm a _**super passionate**_ software engineer who believes in **craftsmanship** over quick fixes. I love learning and exploring new tech!
+I'm a _**super passionate**_ software engineer who believes in **craftsmanship** over quick fixes. I not only love learning and exploring new tech but I also like teaching my newly found knowlegde to others!
 
 Currently, I'm into TypeScript, Node.js, Next.js, React, nx and other shiny tools that help in building awesome stuff on the web. Also, I'm always on the lookout for the next cool thing to learn and master!
 
